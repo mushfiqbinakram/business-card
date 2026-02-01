@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+}
+.image{
+    height: 150px;
+    width: 150px;
+}
+.card{
+    border: 1px dotted #a07bd3;
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #bde0fe;
+    color: #22223b;
+    border-bottom: 5px solid #a2d2ff;
+    font-family: "Poppins";
+}
+
+.mid{
+    text-align: center;
+}
